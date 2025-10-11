@@ -71,9 +71,7 @@ This project automates the functionality of the SauceDemo.com website using Java
 ## Installation
 **1. Clone the Repository**
 First, clone this repository to your local machine:
-````
-
-
+https://github.com/sumanth4457-p/SauceDemo-Web-Automation-Framework.git
 ````
 **2. Set Up Java and Maven**
 Ensure Java 8 or higher and Maven 3.x are installed on your machine.
